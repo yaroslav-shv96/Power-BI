@@ -11,3 +11,5 @@ The management team needs a way to track KPIs (sales, revenue, profit, returns),
 + building a relational model
 + adding calculated columns and measures
 + designing an interactive report
+
+The project has data from Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.
